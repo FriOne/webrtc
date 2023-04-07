@@ -1,0 +1,8 @@
+.root {
+  padding: 20px;
+  text-align: center;
+}
+
+.alert {
+  display: inline-block;
+}

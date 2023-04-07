@@ -1,0 +1,6 @@
+.root {
+  width: 100%;
+  max-width: 400px;
+  transform: rotateY(180deg);
+  border: 1px solid gray;
+}
